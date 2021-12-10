@@ -4,9 +4,7 @@ Code corresponds to the paper
 
 A. Fabisch, F. Kirchner: Sample-Efficient Policy Search with a Trajectory Autoencoder.
 In: 4th Robot Learning Workshop at NeurIPS 2021.
-
-The implementation is currently only available
-[here](https://github.com/AlexanderFabisch/AlexanderFabisch.github.io/blob/source/content/downloads/vtae_code_example.zip?raw=true).
+[PDF](http://www.robot-learning.ml/2021/files/A1.pdf) [Workshop](http://www.robot-learning.ml/2021/)
 
 ## Dependencies
 
